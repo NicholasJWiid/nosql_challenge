@@ -1,6 +1,6 @@
 # nosql_challenge
 
-Project Overview
+## Project Overview
 The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, "Eat Safe, Love" (a fictional magazine), to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles. The project consists of three parts: Setting up the Database, Updating the Database, and Exploratory Analysis. 
 
 Tools and Libraries used: MongoDB, pymongo library in Python, Jupyter Notebooks.

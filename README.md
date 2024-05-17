@@ -3,11 +3,13 @@
 ## Project Overview
 The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, "Eat Safe, Love" (a fictional magazine), to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles. The project consists of three parts: Setting up the Database, Updating the Database, and Exploratory Analysis. 
 
-Tools and Libraries used: MongoDB, pymongo library in Python, Jupyter Notebooks.
+**Tools and Libraries used:**
+
+* MongoDB
+* pymongo library in Python
+* Jupyter Notebooks
 
 ### Part 1: Database Set Up
-Use NoSQL_setup_starter.ipynb for this section of the challenge.
-
 * Import the data provided in the establishments.json file.
 * Import dependencies and create an instance of the Mongo Client.
 * Confirm that uk_food database is listed with establishments collection.
@@ -15,7 +17,7 @@ Use NoSQL_setup_starter.ipynb for this section of the challenge.
 
 ### Part 2: Update the Database
 * Add new restaurants to the database.
-* Find BusinessTypeID for restaurant establishments and update the new restaurant with thsi ID.
+* Find BusinessTypeID for restaurant establishments and update the new restaurant with this ID.
 * Remove any establishments within the Dover Local Authority from the database.
 * Convert latitude and longitude to decimal numbers.
 * Convert RatingValue to integer numbers.

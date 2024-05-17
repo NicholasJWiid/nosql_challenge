@@ -6,7 +6,7 @@ The UK Food Standards Agency evaluates various establishments across the United 
 **Tools and Libraries used:**
 
 * MongoDB
-* pymongo library in Python
+* Python: pymongo and pandas libraries
 * Jupyter Notebooks
 
 ### Part 1: Database Set Up

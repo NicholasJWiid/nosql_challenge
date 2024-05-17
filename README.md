@@ -12,7 +12,7 @@ The UK Food Standards Agency evaluates various establishments across the United 
 ### Part 1: Database Set Up
 * Import the data provided in the establishments.json file.
 * Import dependencies and create an instance of the Mongo Client.
-* Confirm that uk_food database is listed with establishments collection.
+* Confirm that "uk_food" database is listed with "establishments" collection.
 * Assign the establishments collection to a variable to prepare the collection for use.
 
 ### Part 2: Update the Database
